@@ -1,0 +1,13 @@
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\bin\Debug\SuperProyecto.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\bin\Debug\SuperProyecto.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\bin\Debug\SuperProyecto.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.Form2.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.LoginApp.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\SuperProyecto\SuperProyecto\obj\Debug\SuperProyecto.Form3.resources
